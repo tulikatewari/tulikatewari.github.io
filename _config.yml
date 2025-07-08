@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Tulika's Homepage!"
 title_separator          : "-"
 name                     : &name "Tulika Tewari"
-description              : &description "personal description"
+description              : &description "junior research fellow at NSUT"
 url                      : https://tulikatewari.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tulikatewari/tulikatewari.github.io"
@@ -27,7 +27,7 @@ author:
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Exploring intersection of AI and Security"
   location         : "New Delhi, India"
-  employer         : "Netaji Subhas University of Technology"
+  employer         : "NSUT"
   uri              : # URL
   email            : "tulikatewari.lko@gmail.com" 
 
