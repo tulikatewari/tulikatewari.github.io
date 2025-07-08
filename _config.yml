@@ -27,7 +27,7 @@ author:
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Exploring intersection of AI and Security"
   location         : "New Delhi, India"
-  employer         : "NSUT"
+  # employer         : "NSUT"
   uri              : # URL
   email            : "tulikatewari.lko@gmail.com" 
 
