@@ -13,6 +13,6 @@ Thanks for visiting my profile!
 
 🧑‍💻I am interested in developing secure and responsible AI systems that prioritizes people.
 
-📚Check out my [publications] (https://tulikatewari.github.io/publications/)!!
+📚Check out my [publications](https://tulikatewari.github.io/publications/)!!
 
 
